@@ -1,5 +1,4 @@
 prestaTiempoReal
-================
-Cliente para ver los pedidos de tu Prestashop en tu telefono
+Modulo Prestashop para ver los pedidos en tu telefono o Tablet de forma sencilla
 
 v 0.1
